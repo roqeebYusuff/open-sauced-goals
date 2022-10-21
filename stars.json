@@ -1,13 +1,31 @@
 [
   {
+    "full_name": "HridoyHazard/HazzWeather",
+    "stargazers_count": 21,
+    "open_issues_count": 29,
+    "forks_count": 44
+  },
+  {
+    "full_name": "kartik3805/QuickWiKi",
+    "stargazers_count": 6,
+    "open_issues_count": 10,
+    "forks_count": 32
+  },
+  {
+    "full_name": "MadhushaPrasad/Diagon-Alley",
+    "stargazers_count": 9,
+    "open_issues_count": 11,
+    "forks_count": 8
+  },
+  {
     "full_name": "microsoft/Web-Dev-For-Beginners",
-    "stargazers_count": 58512,
-    "open_issues_count": 142,
-    "forks_count": 9122
+    "stargazers_count": 58592,
+    "open_issues_count": 154,
+    "forks_count": 9161
   },
   {
     "full_name": "mwangiKibui/node.js-rest-api-documentation",
-    "stargazers_count": 30,
+    "stargazers_count": 31,
     "open_issues_count": 0,
     "forks_count": 20
   },
@@ -19,13 +37,13 @@
   },
   {
     "full_name": "CleverProgrammers/opensea-blockchain-youtube",
-    "stargazers_count": 165,
+    "stargazers_count": 166,
     "open_issues_count": 8,
     "forks_count": 219
   },
   {
     "full_name": "dabit3/polygon-ethereum-nextjs-marketplace",
-    "stargazers_count": 1109,
+    "stargazers_count": 1111,
     "open_issues_count": 42,
     "forks_count": 727
   },
@@ -33,6 +51,6 @@
     "full_name": "cyberboysumanjay/JioSaavnAPI",
     "stargazers_count": 274,
     "open_issues_count": 8,
-    "forks_count": 147
+    "forks_count": 146
   }
 ]
