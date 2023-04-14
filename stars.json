@@ -1,21 +1,33 @@
 [
   {
+    "full_name": "themesberg/flowbite-astro-admin-dashboard",
+    "stargazers_count": 45,
+    "open_issues_count": 1,
+    "forks_count": 4
+  },
+  {
+    "full_name": "themesberg/flowbite-react",
+    "stargazers_count": 916,
+    "open_issues_count": 86,
+    "forks_count": 197
+  },
+  {
     "full_name": "instamobile/react-native-walkthrough",
     "stargazers_count": 39,
     "open_issues_count": 2,
-    "forks_count": 9
+    "forks_count": 10
   },
   {
     "full_name": "daniel-alts/pizza_app",
     "stargazers_count": 18,
-    "open_issues_count": 169,
-    "forks_count": 206
+    "open_issues_count": 168,
+    "forks_count": 205
   },
   {
     "full_name": "HridoyHazard/HazzWeather",
     "stargazers_count": 31,
     "open_issues_count": 26,
-    "forks_count": 58
+    "forks_count": 57
   },
   {
     "full_name": "kartik3805/QuickWiKi",
@@ -31,9 +43,9 @@
   },
   {
     "full_name": "microsoft/Web-Dev-For-Beginners",
-    "stargazers_count": 68563,
-    "open_issues_count": 64,
-    "forks_count": 10716
+    "stargazers_count": 68730,
+    "open_issues_count": 66,
+    "forks_count": 10762
   },
   {
     "full_name": "mwangiKibui/node.js-rest-api-documentation",
@@ -49,19 +61,19 @@
   },
   {
     "full_name": "CleverProgrammers/opensea-blockchain-youtube",
-    "stargazers_count": 178,
+    "stargazers_count": 179,
     "open_issues_count": 9,
     "forks_count": 231
   },
   {
     "full_name": "dabit3/polygon-ethereum-nextjs-marketplace",
-    "stargazers_count": 1190,
+    "stargazers_count": 1191,
     "open_issues_count": 43,
-    "forks_count": 783
+    "forks_count": 786
   },
   {
     "full_name": "cyberboysumanjay/JioSaavnAPI",
-    "stargazers_count": 296,
+    "stargazers_count": 295,
     "open_issues_count": 10,
     "forks_count": 164
   }
