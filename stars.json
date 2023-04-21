@@ -1,15 +1,15 @@
 [
   {
     "full_name": "themesberg/flowbite-astro-admin-dashboard",
-    "stargazers_count": 45,
+    "stargazers_count": 47,
     "open_issues_count": 1,
     "forks_count": 4
   },
   {
     "full_name": "themesberg/flowbite-react",
-    "stargazers_count": 927,
-    "open_issues_count": 78,
-    "forks_count": 199
+    "stargazers_count": 935,
+    "open_issues_count": 77,
+    "forks_count": 205
   },
   {
     "full_name": "instamobile/react-native-walkthrough",
@@ -20,8 +20,8 @@
   {
     "full_name": "daniel-alts/pizza_app",
     "stargazers_count": 18,
-    "open_issues_count": 168,
-    "forks_count": 205
+    "open_issues_count": 167,
+    "forks_count": 204
   },
   {
     "full_name": "HridoyHazard/HazzWeather",
@@ -43,9 +43,9 @@
   },
   {
     "full_name": "microsoft/Web-Dev-For-Beginners",
-    "stargazers_count": 68828,
-    "open_issues_count": 66,
-    "forks_count": 10787
+    "stargazers_count": 68891,
+    "open_issues_count": 67,
+    "forks_count": 10797
   },
   {
     "full_name": "mwangiKibui/node.js-rest-api-documentation",
@@ -69,12 +69,12 @@
     "full_name": "dabit3/polygon-ethereum-nextjs-marketplace",
     "stargazers_count": 1193,
     "open_issues_count": 43,
-    "forks_count": 787
+    "forks_count": 789
   },
   {
     "full_name": "cyberboysumanjay/JioSaavnAPI",
-    "stargazers_count": 295,
-    "open_issues_count": 12,
-    "forks_count": 164
+    "stargazers_count": 296,
+    "open_issues_count": 13,
+    "forks_count": 165
   }
 ]
