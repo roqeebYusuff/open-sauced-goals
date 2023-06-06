@@ -1,20 +1,32 @@
 [
   {
+    "full_name": "jherr/njs13-n-plus-one",
+    "stargazers_count": 15,
+    "open_issues_count": 0,
+    "forks_count": 7
+  },
+  {
+    "full_name": "quran/quran.com-frontend-next",
+    "stargazers_count": 723,
+    "open_issues_count": 118,
+    "forks_count": 241
+  },
+  {
     "full_name": "shadcn/taxonomy",
-    "stargazers_count": 12591,
-    "open_issues_count": 88,
-    "forks_count": 1459
+    "stargazers_count": 12838,
+    "open_issues_count": 91,
+    "forks_count": 1503
   },
   {
     "full_name": "themesberg/flowbite-astro-admin-dashboard",
-    "stargazers_count": 71,
+    "stargazers_count": 76,
     "open_issues_count": 1,
-    "forks_count": 13
+    "forks_count": 17
   },
   {
     "full_name": "themesberg/flowbite-react",
-    "stargazers_count": 1089,
-    "open_issues_count": 96,
+    "stargazers_count": 1096,
+    "open_issues_count": 97,
     "forks_count": 233
   },
   {
@@ -33,7 +45,7 @@
     "full_name": "HridoyHazard/HazzWeather",
     "stargazers_count": 34,
     "open_issues_count": 24,
-    "forks_count": 57
+    "forks_count": 56
   },
   {
     "full_name": "kartik3805/QuickWiKi",
@@ -49,13 +61,13 @@
   },
   {
     "full_name": "microsoft/Web-Dev-For-Beginners",
-    "stargazers_count": 70163,
-    "open_issues_count": 76,
-    "forks_count": 10995
+    "stargazers_count": 70233,
+    "open_issues_count": 78,
+    "forks_count": 11003
   },
   {
     "full_name": "mwangiKibui/node.js-rest-api-documentation",
-    "stargazers_count": 34,
+    "stargazers_count": 35,
     "open_issues_count": 0,
     "forks_count": 23
   },
@@ -73,13 +85,13 @@
   },
   {
     "full_name": "dabit3/polygon-ethereum-nextjs-marketplace",
-    "stargazers_count": 1203,
-    "open_issues_count": 44,
+    "stargazers_count": 1206,
+    "open_issues_count": 45,
     "forks_count": 796
   },
   {
     "full_name": "cyberboysumanjay/JioSaavnAPI",
-    "stargazers_count": 301,
+    "stargazers_count": 300,
     "open_issues_count": 9,
     "forks_count": 169
   }
