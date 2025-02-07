@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "saulamsal/apple-news-ui",
+    "stargazers_count": 254,
+    "open_issues_count": 1,
+    "forks_count": 36
+  },
+  {
     "full_name": "ankitkr0/gitreceipt",
     "stargazers_count": 91,
     "open_issues_count": 4,
@@ -13,27 +19,27 @@
   },
   {
     "full_name": "quran/quran.com-frontend-next",
-    "stargazers_count": 1480,
-    "open_issues_count": 211,
+    "stargazers_count": 1482,
+    "open_issues_count": 207,
     "forks_count": 452
   },
   {
     "full_name": "shadcn-ui/taxonomy",
-    "stargazers_count": 18770,
+    "stargazers_count": 18773,
     "open_issues_count": 212,
     "forks_count": 2602
   },
   {
     "full_name": "themesberg/flowbite-astro-admin-dashboard",
-    "stargazers_count": 653,
+    "stargazers_count": 654,
     "open_issues_count": 5,
-    "forks_count": 172
+    "forks_count": 173
   },
   {
     "full_name": "themesberg/flowbite-react",
-    "stargazers_count": 1953,
+    "stargazers_count": 1954,
     "open_issues_count": 212,
-    "forks_count": 436
+    "forks_count": 437
   },
   {
     "full_name": "instamobile/react-native-walkthrough",
@@ -67,9 +73,9 @@
   },
   {
     "full_name": "microsoft/Web-Dev-For-Beginners",
-    "stargazers_count": 84657,
+    "stargazers_count": 84721,
     "open_issues_count": 116,
-    "forks_count": 12567
+    "forks_count": 12589
   },
   {
     "full_name": "mwangiKibui/node.js-rest-api-documentation",
@@ -99,6 +105,6 @@
     "full_name": "cyberboysumanjay/JioSaavnAPI",
     "stargazers_count": 377,
     "open_issues_count": 9,
-    "forks_count": 198
+    "forks_count": 196
   }
 ]
