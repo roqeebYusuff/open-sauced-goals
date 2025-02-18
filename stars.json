@@ -1,7 +1,7 @@
 [
   {
     "full_name": "saulamsal/apple-news-ui",
-    "stargazers_count": 310,
+    "stargazers_count": 315,
     "open_issues_count": 0,
     "forks_count": 42
   },
@@ -19,15 +19,15 @@
   },
   {
     "full_name": "quran/quran.com-frontend-next",
-    "stargazers_count": 1486,
-    "open_issues_count": 211,
-    "forks_count": 454
+    "stargazers_count": 1487,
+    "open_issues_count": 208,
+    "forks_count": 457
   },
   {
     "full_name": "shadcn-ui/taxonomy",
-    "stargazers_count": 18789,
+    "stargazers_count": 18799,
     "open_issues_count": 212,
-    "forks_count": 2609
+    "forks_count": 2613
   },
   {
     "full_name": "themesberg/flowbite-astro-admin-dashboard",
@@ -37,12 +37,12 @@
   },
   {
     "full_name": "themesberg/flowbite-react",
-    "stargazers_count": 1963,
+    "stargazers_count": 1965,
     "open_issues_count": 212,
-    "forks_count": 439
+    "forks_count": 440
   },
   {
-    "full_name": "instamobile/react-native-walkthrough",
+    "full_name": "dopebase/react-native-walkthrough",
     "stargazers_count": 45,
     "open_issues_count": 2,
     "forks_count": 10
@@ -67,15 +67,15 @@
   },
   {
     "full_name": "MadhushaPrasad/Diagon-Alley",
-    "stargazers_count": 24,
+    "stargazers_count": 25,
     "open_issues_count": 15,
     "forks_count": 39
   },
   {
     "full_name": "microsoft/Web-Dev-For-Beginners",
-    "stargazers_count": 84935,
-    "open_issues_count": 118,
-    "forks_count": 12608
+    "stargazers_count": 85033,
+    "open_issues_count": 119,
+    "forks_count": 12626
   },
   {
     "full_name": "mwangiKibui/node.js-rest-api-documentation",
@@ -91,20 +91,20 @@
   },
   {
     "full_name": "CleverProgrammers/opensea-blockchain-youtube",
-    "stargazers_count": 173,
+    "stargazers_count": 172,
     "open_issues_count": 9,
     "forks_count": 227
   },
   {
     "full_name": "dabit3/polygon-ethereum-nextjs-marketplace",
-    "stargazers_count": 1313,
+    "stargazers_count": 1314,
     "open_issues_count": 43,
     "forks_count": 877
   },
   {
     "full_name": "cyberboysumanjay/JioSaavnAPI",
-    "stargazers_count": 378,
+    "stargazers_count": 381,
     "open_issues_count": 9,
-    "forks_count": 197
+    "forks_count": 199
   }
 ]
