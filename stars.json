@@ -1,13 +1,13 @@
 [
   {
     "full_name": "shadcn-ui/ui",
-    "stargazers_count": 84907,
-    "open_issues_count": 1704,
-    "forks_count": 5705
+    "stargazers_count": 85128,
+    "open_issues_count": 1721,
+    "forks_count": 5731
   },
   {
     "full_name": "saulamsal/apple-news-ui",
-    "stargazers_count": 329,
+    "stargazers_count": 330,
     "open_issues_count": 0,
     "forks_count": 47
   },
@@ -25,25 +25,25 @@
   },
   {
     "full_name": "quran/quran.com-frontend-next",
-    "stargazers_count": 1570,
-    "open_issues_count": 222,
-    "forks_count": 482
+    "stargazers_count": 1573,
+    "open_issues_count": 225,
+    "forks_count": 483
   },
   {
     "full_name": "shadcn-ui/taxonomy",
-    "stargazers_count": 18870,
+    "stargazers_count": 18875,
     "open_issues_count": 213,
-    "forks_count": 2632
+    "forks_count": 2634
   },
   {
     "full_name": "themesberg/flowbite-astro-admin-dashboard",
-    "stargazers_count": 676,
+    "stargazers_count": 680,
     "open_issues_count": 5,
     "forks_count": 174
   },
   {
     "full_name": "themesberg/flowbite-react",
-    "stargazers_count": 2001,
+    "stargazers_count": 2002,
     "open_issues_count": 161,
     "forks_count": 446
   },
@@ -79,9 +79,9 @@
   },
   {
     "full_name": "microsoft/Web-Dev-For-Beginners",
-    "stargazers_count": 87170,
-    "open_issues_count": 136,
-    "forks_count": 13065
+    "stargazers_count": 87215,
+    "open_issues_count": 135,
+    "forks_count": 13097
   },
   {
     "full_name": "mwangiKibui/node.js-rest-api-documentation",
@@ -111,6 +111,6 @@
     "full_name": "cyberboysumanjay/JioSaavnAPI",
     "stargazers_count": 387,
     "open_issues_count": 10,
-    "forks_count": 199
+    "forks_count": 200
   }
 ]
