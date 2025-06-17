@@ -1,15 +1,15 @@
 [
   {
     "full_name": "shadcn-ui/ui",
-    "stargazers_count": 88781,
-    "open_issues_count": 1860,
-    "forks_count": 6083
+    "stargazers_count": 89111,
+    "open_issues_count": 1867,
+    "forks_count": 6117
   },
   {
     "full_name": "saulamsal/apple-news-ui",
-    "stargazers_count": 345,
+    "stargazers_count": 346,
     "open_issues_count": 0,
-    "forks_count": 49
+    "forks_count": 50
   },
   {
     "full_name": "ankitkr0/gitreceipt",
@@ -25,27 +25,27 @@
   },
   {
     "full_name": "quran/quran.com-frontend-next",
-    "stargazers_count": 1607,
-    "open_issues_count": 226,
-    "forks_count": 502
+    "stargazers_count": 1610,
+    "open_issues_count": 225,
+    "forks_count": 503
   },
   {
     "full_name": "shadcn-ui/taxonomy",
-    "stargazers_count": 18942,
+    "stargazers_count": 18946,
     "open_issues_count": 213,
-    "forks_count": 2663
+    "forks_count": 2665
   },
   {
     "full_name": "themesberg/flowbite-astro-admin-dashboard",
-    "stargazers_count": 698,
+    "stargazers_count": 699,
     "open_issues_count": 5,
     "forks_count": 178
   },
   {
     "full_name": "themesberg/flowbite-react",
     "stargazers_count": 2043,
-    "open_issues_count": 164,
-    "forks_count": 459
+    "open_issues_count": 166,
+    "forks_count": 460
   },
   {
     "full_name": "dopebase/react-native-walkthrough",
@@ -79,9 +79,9 @@
   },
   {
     "full_name": "microsoft/Web-Dev-For-Beginners",
-    "stargazers_count": 88520,
-    "open_issues_count": 141,
-    "forks_count": 13405
+    "stargazers_count": 88586,
+    "open_issues_count": 142,
+    "forks_count": 13425
   },
   {
     "full_name": "mwangiKibui/node.js-rest-api-documentation",
@@ -103,14 +103,14 @@
   },
   {
     "full_name": "dabit3/polygon-ethereum-nextjs-marketplace",
-    "stargazers_count": 1317,
+    "stargazers_count": 1315,
     "open_issues_count": 43,
-    "forks_count": 869
+    "forks_count": 867
   },
   {
     "full_name": "cyberboysumanjay/JioSaavnAPI",
     "stargazers_count": 402,
     "open_issues_count": 10,
-    "forks_count": 205
+    "forks_count": 206
   }
 ]
