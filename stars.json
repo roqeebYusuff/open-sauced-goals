@@ -1,21 +1,15 @@
 [
   {
     "full_name": "shadcn-ui/ui",
-    "stargazers_count": 92285,
-    "open_issues_count": 1694,
-    "forks_count": 6430
+    "stargazers_count": 92498,
+    "open_issues_count": 1688,
+    "forks_count": 6454
   },
   {
     "full_name": "saulamsal/apple-news-ui",
     "stargazers_count": 361,
     "open_issues_count": 0,
     "forks_count": 55
-  },
-  {
-    "full_name": "ankitkr0/gitreceipt",
-    "stargazers_count": 100,
-    "open_issues_count": 4,
-    "forks_count": 15
   },
   {
     "full_name": "jherr/njs13-n-plus-one",
@@ -25,27 +19,27 @@
   },
   {
     "full_name": "quran/quran.com-frontend-next",
-    "stargazers_count": 1645,
-    "open_issues_count": 224,
-    "forks_count": 511
+    "stargazers_count": 1648,
+    "open_issues_count": 223,
+    "forks_count": 510
   },
   {
     "full_name": "shadcn-ui/taxonomy",
-    "stargazers_count": 19006,
+    "stargazers_count": 19013,
     "open_issues_count": 215,
-    "forks_count": 2679
+    "forks_count": 2678
   },
   {
     "full_name": "themesberg/flowbite-astro-admin-dashboard",
-    "stargazers_count": 713,
+    "stargazers_count": 714,
     "open_issues_count": 5,
-    "forks_count": 181
+    "forks_count": 182
   },
   {
     "full_name": "themesberg/flowbite-react",
     "stargazers_count": 2060,
     "open_issues_count": 168,
-    "forks_count": 464
+    "forks_count": 466
   },
   {
     "full_name": "dopebase/react-native-walkthrough",
@@ -61,7 +55,7 @@
   },
   {
     "full_name": "HridoyHazard/HazzWeather",
-    "stargazers_count": 63,
+    "stargazers_count": 64,
     "open_issues_count": 24,
     "forks_count": 71
   },
@@ -79,9 +73,9 @@
   },
   {
     "full_name": "microsoft/Web-Dev-For-Beginners",
-    "stargazers_count": 90924,
-    "open_issues_count": 157,
-    "forks_count": 13773
+    "stargazers_count": 90975,
+    "open_issues_count": 158,
+    "forks_count": 13786
   },
   {
     "full_name": "mwangiKibui/node.js-rest-api-documentation",
@@ -103,14 +97,14 @@
   },
   {
     "full_name": "dabit3/polygon-ethereum-nextjs-marketplace",
-    "stargazers_count": 1319,
+    "stargazers_count": 1320,
     "open_issues_count": 43,
     "forks_count": 862
   },
   {
     "full_name": "cyberboysumanjay/JioSaavnAPI",
-    "stargazers_count": 411,
+    "stargazers_count": 410,
     "open_issues_count": 10,
-    "forks_count": 208
+    "forks_count": 207
   }
 ]
