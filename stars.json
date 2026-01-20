@@ -1,9 +1,9 @@
 [
   {
     "full_name": "shadcn-ui/ui",
-    "stargazers_count": 104878,
-    "open_issues_count": 1846,
-    "forks_count": 7670
+    "stargazers_count": 105116,
+    "open_issues_count": 1803,
+    "forks_count": 7700
   },
   {
     "full_name": "saulsharma/apple-news-ui",
@@ -19,19 +19,19 @@
   },
   {
     "full_name": "quran/quran.com-frontend-next",
-    "stargazers_count": 1741,
-    "open_issues_count": 251,
+    "stargazers_count": 1746,
+    "open_issues_count": 253,
     "forks_count": 534
   },
   {
     "full_name": "shadcn-ui/taxonomy",
-    "stargazers_count": 19134,
+    "stargazers_count": 19141,
     "open_issues_count": 218,
-    "forks_count": 2699
+    "forks_count": 2698
   },
   {
     "full_name": "themesberg/flowbite-astro-admin-dashboard",
-    "stargazers_count": 758,
+    "stargazers_count": 759,
     "open_issues_count": 5,
     "forks_count": 191
   },
@@ -39,7 +39,7 @@
     "full_name": "themesberg/flowbite-react",
     "stargazers_count": 2115,
     "open_issues_count": 169,
-    "forks_count": 481
+    "forks_count": 483
   },
   {
     "full_name": "dopebase/react-native-walkthrough",
@@ -73,9 +73,9 @@
   },
   {
     "full_name": "microsoft/Web-Dev-For-Beginners",
-    "stargazers_count": 95026,
-    "open_issues_count": 56,
-    "forks_count": 15018
+    "stargazers_count": 95082,
+    "open_issues_count": 57,
+    "forks_count": 15035
   },
   {
     "full_name": "mwangiKibui/node.js-rest-api-documentation",
@@ -99,12 +99,12 @@
     "full_name": "dabit3/polygon-ethereum-nextjs-marketplace",
     "stargazers_count": 1328,
     "open_issues_count": 45,
-    "forks_count": 872
+    "forks_count": 873
   },
   {
     "full_name": "cyberboysumanjay/JioSaavnAPI",
     "stargazers_count": 434,
     "open_issues_count": 10,
-    "forks_count": 219
+    "forks_count": 220
   }
 ]
