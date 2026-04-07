@@ -1,9 +1,9 @@
 [
   {
     "full_name": "shadcn-ui/ui",
-    "stargazers_count": 111367,
-    "open_issues_count": 1803,
-    "forks_count": 8398
+    "stargazers_count": 111680,
+    "open_issues_count": 1800,
+    "forks_count": 8453
   },
   {
     "full_name": "saulsharma/apple-news-ui",
@@ -19,15 +19,15 @@
   },
   {
     "full_name": "quran/quran.com-frontend-next",
-    "stargazers_count": 1814,
+    "stargazers_count": 1819,
     "open_issues_count": 274,
     "forks_count": 584
   },
   {
     "full_name": "shadcn-ui/taxonomy",
-    "stargazers_count": 19175,
+    "stargazers_count": 19178,
     "open_issues_count": 219,
-    "forks_count": 2709
+    "forks_count": 2714
   },
   {
     "full_name": "themesberg/flowbite-astro-admin-dashboard",
@@ -38,8 +38,8 @@
   {
     "full_name": "themesberg/flowbite-react",
     "stargazers_count": 2131,
-    "open_issues_count": 169,
-    "forks_count": 495
+    "open_issues_count": 170,
+    "forks_count": 496
   },
   {
     "full_name": "dopebase/react-native-walkthrough",
@@ -73,9 +73,9 @@
   },
   {
     "full_name": "microsoft/Web-Dev-For-Beginners",
-    "stargazers_count": 95519,
-    "open_issues_count": 54,
-    "forks_count": 15316
+    "stargazers_count": 95536,
+    "open_issues_count": 56,
+    "forks_count": 15322
   },
   {
     "full_name": "mwangiKibui/node.js-rest-api-documentation",
@@ -85,9 +85,9 @@
   },
   {
     "full_name": "digitalinnovationone/dio-blockchain-for-devs",
-    "stargazers_count": 47,
+    "stargazers_count": 46,
     "open_issues_count": 0,
-    "forks_count": 48
+    "forks_count": 47
   },
   {
     "full_name": "CleverProgrammers/opensea-blockchain-youtube",
@@ -105,6 +105,6 @@
     "full_name": "cyberboysumanjay/JioSaavnAPI",
     "stargazers_count": 439,
     "open_issues_count": 10,
-    "forks_count": 224
+    "forks_count": 225
   }
 ]
