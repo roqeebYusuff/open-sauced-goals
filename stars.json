@@ -1,15 +1,15 @@
 [
   {
     "full_name": "farzaa/clicky",
-    "stargazers_count": 6169,
-    "open_issues_count": 64,
-    "forks_count": 1145
+    "stargazers_count": 6342,
+    "open_issues_count": 68,
+    "forks_count": 1194
   },
   {
     "full_name": "shadcn-ui/ui",
-    "stargazers_count": 115231,
-    "open_issues_count": 1979,
-    "forks_count": 8943
+    "stargazers_count": 115435,
+    "open_issues_count": 2006,
+    "forks_count": 8968
   },
   {
     "full_name": "saulsharma/apple-news-ui",
@@ -25,15 +25,15 @@
   },
   {
     "full_name": "quran/quran.com-frontend-next",
-    "stargazers_count": 1862,
-    "open_issues_count": 287,
-    "forks_count": 602
+    "stargazers_count": 1863,
+    "open_issues_count": 288,
+    "forks_count": 603
   },
   {
     "full_name": "shadcn-ui/taxonomy",
-    "stargazers_count": 19238,
+    "stargazers_count": 19239,
     "open_issues_count": 219,
-    "forks_count": 2718
+    "forks_count": 2723
   },
   {
     "full_name": "themesberg/flowbite-astro-admin-dashboard",
@@ -43,9 +43,9 @@
   },
   {
     "full_name": "themesberg/flowbite-react",
-    "stargazers_count": 2135,
+    "stargazers_count": 2136,
     "open_issues_count": 180,
-    "forks_count": 505
+    "forks_count": 503
   },
   {
     "full_name": "dopebase/react-native-walkthrough",
@@ -79,9 +79,9 @@
   },
   {
     "full_name": "microsoft/Web-Dev-For-Beginners",
-    "stargazers_count": 95826,
-    "open_issues_count": 66,
-    "forks_count": 15548
+    "stargazers_count": 95844,
+    "open_issues_count": 68,
+    "forks_count": 15561
   },
   {
     "full_name": "mwangiKibui/node.js-rest-api-documentation",
@@ -97,7 +97,7 @@
   },
   {
     "full_name": "CleverProgrammers/opensea-blockchain-youtube",
-    "stargazers_count": 173,
+    "stargazers_count": 172,
     "open_issues_count": 9,
     "forks_count": 224
   },
@@ -109,8 +109,8 @@
   },
   {
     "full_name": "cyberboysumanjay/JioSaavnAPI",
-    "stargazers_count": 442,
+    "stargazers_count": 443,
     "open_issues_count": 10,
-    "forks_count": 229
+    "forks_count": 231
   }
 ]
