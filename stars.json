@@ -1,19 +1,19 @@
 [
   {
     "full_name": "farzaa/clicky",
-    "stargazers_count": 6661,
+    "stargazers_count": 6799,
     "open_issues_count": 70,
-    "forks_count": 1283
+    "forks_count": 1313
   },
   {
     "full_name": "shadcn-ui/ui",
-    "stargazers_count": 116679,
-    "open_issues_count": 2045,
-    "forks_count": 9072
+    "stargazers_count": 116948,
+    "open_issues_count": 2047,
+    "forks_count": 9102
   },
   {
     "full_name": "saulsharma/apple-news-ui",
-    "stargazers_count": 382,
+    "stargazers_count": 383,
     "open_issues_count": 0,
     "forks_count": 59
   },
@@ -25,25 +25,25 @@
   },
   {
     "full_name": "quran/quran.com-frontend-next",
-    "stargazers_count": 1870,
-    "open_issues_count": 287,
-    "forks_count": 606
+    "stargazers_count": 1874,
+    "open_issues_count": 288,
+    "forks_count": 608
   },
   {
     "full_name": "shadcn-ui/taxonomy",
-    "stargazers_count": 19252,
+    "stargazers_count": 19248,
     "open_issues_count": 219,
-    "forks_count": 2731
+    "forks_count": 2733
   },
   {
     "full_name": "themesberg/flowbite-astro-admin-dashboard",
-    "stargazers_count": 777,
+    "stargazers_count": 776,
     "open_issues_count": 5,
     "forks_count": 189
   },
   {
     "full_name": "themesberg/flowbite-react",
-    "stargazers_count": 2140,
+    "stargazers_count": 2141,
     "open_issues_count": 181,
     "forks_count": 502
   },
@@ -63,7 +63,7 @@
     "full_name": "HridoyHazard/HazzWeather",
     "stargazers_count": 65,
     "open_issues_count": 24,
-    "forks_count": 67
+    "forks_count": 68
   },
   {
     "full_name": "kartik3805/QuickWiKi",
@@ -79,9 +79,9 @@
   },
   {
     "full_name": "microsoft/Web-Dev-For-Beginners",
-    "stargazers_count": 95889,
-    "open_issues_count": 80,
-    "forks_count": 15600
+    "stargazers_count": 95886,
+    "open_issues_count": 77,
+    "forks_count": 15608
   },
   {
     "full_name": "mwangiKibui/node.js-rest-api-documentation",
@@ -103,14 +103,14 @@
   },
   {
     "full_name": "dabit3/polygon-ethereum-nextjs-marketplace",
-    "stargazers_count": 1324,
+    "stargazers_count": 1323,
     "open_issues_count": 42,
     "forks_count": 863
   },
   {
     "full_name": "cyberboysumanjay/JioSaavnAPI",
-    "stargazers_count": 444,
+    "stargazers_count": 443,
     "open_issues_count": 10,
-    "forks_count": 234
+    "forks_count": 236
   }
 ]
