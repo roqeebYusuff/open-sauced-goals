@@ -1,15 +1,21 @@
 [
   {
+    "full_name": "xt42io/aeroplane",
+    "stargazers_count": 245,
+    "open_issues_count": 9,
+    "forks_count": 33
+  },
+  {
     "full_name": "farzaa/clicky",
-    "stargazers_count": 7040,
+    "stargazers_count": 7078,
     "open_issues_count": 69,
-    "forks_count": 1372
+    "forks_count": 1374
   },
   {
     "full_name": "shadcn-ui/ui",
-    "stargazers_count": 118586,
-    "open_issues_count": 2091,
-    "forks_count": 9329
+    "stargazers_count": 119043,
+    "open_issues_count": 2105,
+    "forks_count": 9487
   },
   {
     "full_name": "saulsharma/apple-news-ui",
@@ -25,25 +31,25 @@
   },
   {
     "full_name": "quran/quran.com-frontend-next",
-    "stargazers_count": 1885,
-    "open_issues_count": 290,
+    "stargazers_count": 1887,
+    "open_issues_count": 295,
     "forks_count": 614
   },
   {
     "full_name": "shadcn-ui/taxonomy",
-    "stargazers_count": 19258,
+    "stargazers_count": 19264,
     "open_issues_count": 219,
-    "forks_count": 2738
+    "forks_count": 2736
   },
   {
     "full_name": "themesberg/flowbite-astro-admin-dashboard",
     "stargazers_count": 782,
     "open_issues_count": 5,
-    "forks_count": 191
+    "forks_count": 190
   },
   {
     "full_name": "themesberg/flowbite-react",
-    "stargazers_count": 2148,
+    "stargazers_count": 2147,
     "open_issues_count": 184,
     "forks_count": 501
   },
@@ -79,9 +85,9 @@
   },
   {
     "full_name": "microsoft/Web-Dev-For-Beginners",
-    "stargazers_count": 95992,
-    "open_issues_count": 88,
-    "forks_count": 15670
+    "stargazers_count": 96023,
+    "open_issues_count": 87,
+    "forks_count": 15662
   },
   {
     "full_name": "mwangiKibui/node.js-rest-api-documentation",
@@ -103,14 +109,14 @@
   },
   {
     "full_name": "dabit3/polygon-ethereum-nextjs-marketplace",
-    "stargazers_count": 1322,
+    "stargazers_count": 1324,
     "open_issues_count": 42,
     "forks_count": 862
   },
   {
     "full_name": "cyberboysumanjay/JioSaavnAPI",
     "stargazers_count": 443,
-    "open_issues_count": 10,
-    "forks_count": 239
+    "open_issues_count": 11,
+    "forks_count": 240
   }
 ]
