@@ -1,33 +1,33 @@
 [
   {
     "full_name": "rmyndharis/OpenWA",
-    "stargazers_count": 13014,
-    "open_issues_count": 7,
-    "forks_count": 3001
+    "stargazers_count": 13162,
+    "open_issues_count": 8,
+    "forks_count": 3052
   },
   {
     "full_name": "outray-tunnel/outray",
-    "stargazers_count": 1142,
+    "stargazers_count": 1139,
     "open_issues_count": 16,
     "forks_count": 119
   },
   {
     "full_name": "xt42io/aeroplane",
-    "stargazers_count": 267,
-    "open_issues_count": 9,
+    "stargazers_count": 269,
+    "open_issues_count": 10,
     "forks_count": 40
   },
   {
     "full_name": "farzaa/clicky",
-    "stargazers_count": 7379,
+    "stargazers_count": 7394,
     "open_issues_count": 74,
-    "forks_count": 1441
+    "forks_count": 1443
   },
   {
     "full_name": "shadcn-ui/ui",
-    "stargazers_count": 121739,
-    "open_issues_count": 2300,
-    "forks_count": 9924
+    "stargazers_count": 122022,
+    "open_issues_count": 2319,
+    "forks_count": 9970
   },
   {
     "full_name": "saulsharma/apple-news-ui",
@@ -43,27 +43,27 @@
   },
   {
     "full_name": "quran/quran.com-frontend-next",
-    "stargazers_count": 1899,
-    "open_issues_count": 307,
-    "forks_count": 621
+    "stargazers_count": 1902,
+    "open_issues_count": 309,
+    "forks_count": 624
   },
   {
     "full_name": "shadcn-ui/taxonomy",
-    "stargazers_count": 19284,
-    "open_issues_count": 219,
-    "forks_count": 2736
+    "stargazers_count": 19286,
+    "open_issues_count": 218,
+    "forks_count": 2734
   },
   {
     "full_name": "themesberg/flowbite-astro-admin-dashboard",
-    "stargazers_count": 789,
+    "stargazers_count": 788,
     "open_issues_count": 4,
     "forks_count": 191
   },
   {
     "full_name": "themesberg/flowbite-react",
     "stargazers_count": 2147,
-    "open_issues_count": 191,
-    "forks_count": 504
+    "open_issues_count": 192,
+    "forks_count": 505
   },
   {
     "full_name": "dopebase/react-native-walkthrough",
@@ -97,9 +97,9 @@
   },
   {
     "full_name": "microsoft/Web-Dev-For-Beginners",
-    "stargazers_count": 96410,
-    "open_issues_count": 106,
-    "forks_count": 15798
+    "stargazers_count": 96459,
+    "open_issues_count": 107,
+    "forks_count": 15813
   },
   {
     "full_name": "mwangiKibui/node.js-rest-api-documentation",
@@ -111,7 +111,7 @@
     "full_name": "digitalinnovationone/dio-blockchain-for-devs",
     "stargazers_count": 47,
     "open_issues_count": 0,
-    "forks_count": 48
+    "forks_count": 47
   },
   {
     "full_name": "CleverProgrammers/opensea-blockchain-youtube",
@@ -121,7 +121,7 @@
   },
   {
     "full_name": "dabit3/polygon-ethereum-nextjs-marketplace",
-    "stargazers_count": 1323,
+    "stargazers_count": 1324,
     "open_issues_count": 42,
     "forks_count": 856
   },
@@ -129,6 +129,6 @@
     "full_name": "cyberboysumanjay/JioSaavnAPI",
     "stargazers_count": 450,
     "open_issues_count": 11,
-    "forks_count": 245
+    "forks_count": 246
   }
 ]
